@@ -1,0 +1,5 @@
+{"level":"info","message":"Received request for /books/all"}
+{"level":"info","message":"Received request for /auth/login"}
+{"level":"info","message":"Received request for /books"}
+{"level":"info","message":"Received request for /books/all"}
+{"level":"info","message":"Received request for /books"}
