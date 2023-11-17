@@ -8,6 +8,10 @@ Varthak- Library App Assignment
 - **MongoDB**: A NoSQL database for storing data.
 - **JWT**: JSON Web Tokens for authentication.
 - **Other Dependencies**: Various Node.js libraries and modules.
+- https://drive.google.com/file/d/1NcFkJI7s3j6n6YGIGtX-9KlbAWx2yVRi/view?usp=share_link
+- https://cute-jade-hen.cyclic.app
+
+
 
 
 ## Getting Started
@@ -18,7 +22,6 @@ Varthak- Library App Assignment
 
    ```
    git clone https://github.com/utdsi/Varthak
-   https://drive.google.com/file/d/1nNFxLl_dAxS6Anjfb_gTiO_xHb_29_k_/view?usp=share_link
    
 2. Navigate to the project directory:
    ```
